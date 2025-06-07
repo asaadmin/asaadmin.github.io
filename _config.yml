@@ -1,7 +1,10 @@
-site: Journal Jekyll Theme
+title: Tim Tortora
+description: The Business of Entertainment
+author:
+  name: Tim Tortora
 
-url: 
-baseurl: 
+url: "https://asaadmin.github.io"
+baseurl: ""  # Leave blank unless you're publishing to a subpath
 
 collections:
   pages:
@@ -15,25 +18,21 @@ collections:
     permalink: /project/:slug
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "projects"
     values:
@@ -44,7 +43,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -54,4 +53,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
