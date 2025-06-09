@@ -5,7 +5,6 @@ date: '2022-06-14T06:00:47-04:00'
 author: Tortora
 excerpt: 'Here I go over the top questions new film investors ask me. Before you invest in a film project, check that you have good answers to these questions.'
 layout: post
-featured_image: \images\post\AdobeStock_133156808-SM-e1613919948196.jpg
 guid: 'http://wordpress.local/?p=1503'
 permalink: /the-top-questions-new-film-investors-ask-me/
 classic-editor-remember:
@@ -14,7 +13,6 @@ aops_lpp_meta_landing_id:
     - '1085'
 aops_lpp_meta_landing_enabled:
     - '0'
-image: \images\post\AdobeStock_133156808-SM-e1613919948196.jpg
 categories:
     - 'FACT OR FICTION'
 tags:
