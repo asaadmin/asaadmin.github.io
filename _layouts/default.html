@@ -77,6 +77,10 @@
 	</div>
 
 	<div class="loader">
+		<div>
+			<h1>This is the default page</h1>
+		</div>
+
 		<svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
 			<circle cx="15" cy="15" r="15">
 				<animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" />
@@ -96,6 +100,10 @@
 	<div class="page-loader"></div>
 
 	<div class="page">
+		<div>
+			<h1>This is the default page</h1>
+		</div>
+
 		<div class="page__content" data-page-title="{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }} – {{ site.description }}{% endif %}" data-image="{{ page.featured_image | relative_url }}">
 			{{ content }}
 		</div>
