@@ -5,7 +5,7 @@ date: '2017-09-06T01:25:17-04:00'
 author: Tortora
 excerpt: 'Why the hell are we forced to use a paper process, putting pen to paper, that dates back to the 1950s when working with production accounting?  '
 layout: post
-featured_image: '\images\post\AdobeStock_133156808-SM-e1613919948196.jpg'
+featured_image: 
 guid: 'http://wordpress.local/?p=276'
 permalink: /production-accounting-is-antiquated/
 wp-to-buffer-pro:
