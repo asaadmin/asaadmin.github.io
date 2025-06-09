@@ -70,7 +70,7 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">'
-  title_font: '"Merriweather", sans-serif'
+  title_font: '"Work Sans", sans-serif'
   body_font: '"Muli", sans-serif'
   regular_weight: 400
   bold_weight: 600
