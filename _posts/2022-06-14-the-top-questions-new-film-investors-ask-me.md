@@ -7,6 +7,7 @@ excerpt: 'Here I go over the top questions new film investors ask me. Before you
 layout: post
 guid: 'http://wordpress.local/?p=1503'
 permalink: /the-top-questions-new-film-investors-ask-me/
+image: /images/post/AdobeStock_133156808-SM-e1613919948196.jpg
 classic-editor-remember:
     - classic-editor
 aops_lpp_meta_landing_id:
