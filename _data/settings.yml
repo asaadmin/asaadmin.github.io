@@ -67,6 +67,7 @@ color_settings:
   overlay_background_color: '#000000'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
+  new-old_button_color: 
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">'
