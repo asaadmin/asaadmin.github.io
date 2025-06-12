@@ -1,6 +1,8 @@
 <header class="header">
 
-	<div class="header-image header-image--on" style="background-image: url({{ page.featured_image | relative_url }});"></div>
+	<div class="header-image header-image--on" 
+	     style="background-image: url({{ page.featured_image | relative_url }});
+			 background-position: center top"></div>
 	<div class="header-image"></div>
 
 	<div class="header-overlay"></div>
@@ -16,7 +18,7 @@
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
 		{% endif %}
-
+   
 		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
 
 		<div class="menu">
