@@ -4,7 +4,7 @@ author:
   name: Tim Tortora
 
 url: "https://asaadmin.github.io"
-baseurl: ""  # Leave blank unless you're publishing to a subpath
+baseurl: "/asaadmin"  # Leave blank unless you're publishing to a subpath
 
 collections:
   pages:
