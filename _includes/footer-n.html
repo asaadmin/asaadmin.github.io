@@ -1,0 +1,37 @@
+<footer id="wi-footer" class="site-footer">
+  <div class="footer-col">
+    <div id="text-10" class="widget widget_text">
+      <h3 class="widget-title"><span>My Story</span></h3>
+      <div class="textwidget">
+        <p>If a 30 year old smart-ass from a shitty state school in CA can successfully run an $80MM piece of
+          business for Oprah, than just about anyone can do the same with a little bit of knowledge, experience
+          and an ability to telegraph human behavior.</p>
+      </div>
+    </div>
+  </div><!-- .footer-col -->
+  <div class="footer-col">
+
+    <div id="tag_cloud-3" class="widget widget_tag_cloud">
+      <h3 class="widget-title">Tags</h3>
+
+      <div class="tags-cloud">
+        {% assign categories = site.categories %}
+        {% for category in categories %}
+        <a href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}/">
+          {{ category[0] }} ({{ category[1].size }})
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div><!-- .footer-col -->
+  <div class="footer-col">
+
+    <div id="ads-2" class="widget widget_ad">
+      <h3 class="widget-title">Book</h3>
+      <div class="ad-container"><img src="/images/post/Hollywood-Dream-Jobs-Cover-scaled.jpg"
+          alt="Hollywood-Dream-Jobs-Cover-scaled.jpg">
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div><!-- .footer-col -->
+</footer>

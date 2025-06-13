@@ -45,13 +45,13 @@ So how do you earn more from your content and retain control over your material 
  
  Keep in mind that if you hire people to help you build a platform, you’ll need separate people to handle the tech and the design. Those are different skill sets that rarely overlap well.
  
- ### 2. You Need a Paywall System
+## 2. You Need a Paywall System
 
  Your platform needs a system to create memberships for your audience so they can pay you to view your content. The term is “digital rights management,” but it just means setting up a paywall so they have to send money before they can enjoy your stuff. 
  
  If you use any of the platform builders I mentioned above, they all have native or third-party tools to add these paywall systems. In fact, they all have multiple options, so you can find the one that best suits your needs. I recommend and use the [MemberPress](https://memberpress.com/) plugin on WordPress. If you decide to build a totally custom platform, you also have to design a custom paywall system, which is a huge pain in the ass. 
  
- ### 3. You Need a Way to Collect Money
+## 3. You Need a Way to Collect Money
 
  Your next step is to use a credit card procurement system to receive payments. There are several mainstream payment systems, like [Stripe](http://stripe.com), [Square](http://square.com), [Authorize.net](http://authorize.net), [Braintree](https://www.braintreepayments.com/), etc. 
  
@@ -61,7 +61,7 @@ So how do you earn more from your content and retain control over your material 
  
  Once your credit card procurement system is set up, don't forget to run a test transaction on your own card. You don't have to spend much, just $10 to make sure the whole process works. In other works, processing a transaction takes your money, gives you access to the content behind your paywall that you just paid for and deposits the net revenue (the credit card processor will take 3-5%) in your company's bank account. 
  
- ### 4. You Need an Email System
+## 4. You Need an Email System
 
  ![Sell film content](/images/post/AdobeStock_261207157-SM.jpg) 
  
@@ -73,7 +73,7 @@ So how do you earn more from your content and retain control over your material 
  
  There are a *lot* of email marketing services, but I use and recommend [MailChimp](http://mailchimp.com) or [Drip](https://www.getdrip.com/). 
  
- ### 5. You Need a Marketing/Ads System
+## 5. You Need a Marketing/Ads System
 
  Marketing is a *big* discipline, so what you use to satisfy this requirement can be a lot of things. It might be publicity, paid ads, social media, influencer marketing, or something entirely unique. 
  
@@ -81,12 +81,12 @@ So how do you earn more from your content and retain control over your material 
  
  I never advocate for using the social networks as your platform to deliver all your content (you need your own site that you control, like I said), but they do have audiences of *billions* of people. You should use sites like Facebook, Instagram, YouTube, TikTok and Twitter to drive traffic to your platform. Just make sure you aren’t giving away so much free content that people don’t need to buy your stuff. 
  
- ### 6. You Need a Business Structure
+## 6. You Need a Business Structure
 
  *Never* work as a sole proprietor. There are a thousand ways that can screw you. Did you know the IRS can unilaterally decide that a sole proprietorship is not a business, forcing you to pay extra taxes and fees? Yeah, it’s stupid and I've seen it happen to a friend and client. The ONLY exception to this rule, is if you don't have the roughly $1,500 to create the entity (and annual fee to maintain it), but as soon as you have the money - transition to a business entity. And Honestly, setting up the company is the first step I do when getting a project started. 
  
  Fortunately, this tool is pretty simple to get. It can, however, take some time (1-8 weeks) depending on the state and how busy they are. During the pandemic, this process went from taking two days in CA, to two and as much as ten weeks. I always recommend setting up an S-corp. Put all the banking and revenue generation under this entity when operating the business. If you find yourself accumulating more than $200K in annual profit, you should add an asset protection layer to this structure. A good law firm that specializes in Asset Protection can help you based on the state where you live and are organized. 
  
- ## Going Forward
+## Going Forward
 
  If you put all of those systems together, you’ll have everything you need to sell your own content (after you *create* the content, of course). Just remember to test everything thoroughly before driving traffic to your site. You don’t want any snags that prevent the revenue from flowing into your company operating account.

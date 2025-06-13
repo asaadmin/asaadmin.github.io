@@ -4,16 +4,14 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding: 40px 20px;
+	padding: 100px 20px;
 	background: $overlay-background-color;
 
 	@include mq(tabletp) {
-		padding: 80px 40px;
+		padding: 120px 40px;
 	}
 
 	@include mq(tabletl) {
@@ -33,21 +31,31 @@
 }
 
 .header-image {
+  background-image: url("/images/TT_dot-Com_Left-Overlay.png") !important;
+	background-position: center top;
 	position: absolute;
-	top: 0;
+	top: 50px;
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background-size: cover;
-	background-position: center;
+	background-size: cover ;
 	background-repeat: no-repeat;
-	opacity: 0;
 	@include transition(opacity 0.4s ease-in-out);
+
+	@include mq(phonel) {
+		top: 10px;
+	}
+
+	@include mq(tabletl) {
+    top: -10px;
+			background-size: contain ;
+	}
 
 	@include mq(tabletl) {
 		position: fixed;
 		right: auto;
 		width: 30%;
+		top: 60px;
 	}
 
 	@include mq(desktop) {
@@ -143,12 +151,9 @@
 	}
 }
 
-
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
 	@include mq(tabletl) {
 		margin-top: 20px;
 	}
@@ -200,7 +205,6 @@
 }
 
 .menu--open .menu__toggle__icon {
-
 	span:before, span:after {
 		background: $overlay-text-color !important;
 	}
@@ -268,7 +272,6 @@
 }
 
 .menu__list__item {
-
 }
 
 .menu__list__item__link {
@@ -306,8 +309,6 @@
 		font-size: 15px;
 	}
 }
-
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Socials
 

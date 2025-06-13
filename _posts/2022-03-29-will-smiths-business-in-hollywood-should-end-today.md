@@ -15,7 +15,7 @@ aops_lpp_meta_landing_id:
     - '1085'
 aops_lpp_meta_landing_enabled:
     - '0'
-image: /wp-content/uploads/2022/03/Chris-Rock-sm.jpg
+image: /images/post/Chris-Rock-sm.jpg
 categories:
     - 'FACT OR FICTION'
 ---

@@ -15,7 +15,7 @@ aops_lpp_meta_landing_id:
     - '1085'
 aops_lpp_meta_landing_enabled:
     - '0'
-image: /wp-content/uploads/2019/08/AdobeStock_169416936-CropColor2.jpg
+image: /images/post/AdobeStock_169416936-CropColor2.jpg
 categories:
     - 'FACT OR FICTION'
 tags:

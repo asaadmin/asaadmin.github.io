@@ -15,7 +15,7 @@ aops_lpp_meta_landing_id:
     - '1085'
 aops_lpp_meta_landing_enabled:
     - '0'
-image: /wp-content/uploads/2023/05/AdobeStock_248572886-sm.jpg
+image: /images/post/AdobeStock_248572886-sm.jpg
 categories:
     - 'FACT OR FICTION'
 ---

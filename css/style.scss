@@ -6,11 +6,9 @@
 @import "_reset";
 @import "_mixins";
 @import "_plugins";
-
-
+@import "_custom";
 
 // - - - - - - - - - - Variables
-
 
 // Colors
 
@@ -29,7 +27,6 @@ $overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
 
-
 // Fonts
 
 $body-font: {{ site.data.settings.font_settings.body_font }};
@@ -37,7 +34,6 @@ $title-font: {{ site.data.settings.font_settings.title_font }};
 
 $regular-weight: {{ site.data.settings.font_settings.regular_weight }};
 $bold-weight: {{ site.data.settings.font_settings.bold_weight }};
-
 
 // Typography
 
@@ -119,20 +115,15 @@ $blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_heig
 $button-weight: {{ site.data.settings.font_settings.buttons.weight }};
 $button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
 
-
 // Header
 $overlay-opacity: {{ site.data.settings.header_settings.overlay_opacity }};
-
 
 // Logo
 $logo-width: {{ site.data.settings.header_settings.logo_width }}px;
 $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 
-
 // Grid item
 $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
-
-
 
 // - - - - - - - - - - Global styles
 
@@ -140,6 +131,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_header";
 @import "_includes/_footer";
+@import "_includes/_footer-n";
 
 @import "_includes/_content";
 @import "_includes/_socials";
@@ -147,11 +139,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_syntax";
 @import "_includes/_contact-form";
 
-
-
 // - - - - - - - - - - Section styles
 
 @import "_includes/_portfolio";
 @import "_includes/_blog";
-
-

@@ -1,0 +1,34 @@
+<div class="post-share share-5">
+  <ul class="post-share__grid">
+    <li class="li-facebook">
+      <a data-href="https://www.facebook.com/sharer/sharer.php?u={{post.url | absolute_url}}"
+        title="Facebook" class="share share-facebook">
+        {%- include svg/facebook.svg -%}
+        <span>Facebook</span>
+      </a>
+    </li>
+    <li class="li-twitter">
+      <a data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftimtortora.com%2Fhow-the-hollywood-con-man-targets-young-film-entrepreneurs%2F&amp;text=How+the+Hollywood+Con+Man+Targets+Young+Film+Entrepreneurs&amp;via=%40timtortora"
+        title="Twitter" class="share share-twitter">
+        {%- include svg/twitter.svg -%}
+        <span>Twitter</span>
+      </a>
+    </li>
+    <li class="li-linkedin">
+      <a data-href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftimtortora.com%2Fhow-the-hollywood-con-man-targets-young-film-entrepreneurs%2F&amp;title=How+the+Hollywood+Con+Man+Targets+Young+Film+Entrepreneurs"
+        title="Linkedin" class="share share-linkedin">
+        {%- include svg/linkedin.svg -%}
+        <span>Linkedin</span>
+      </a>
+    </li>
+    <li class="li-email">
+      <a href="mailto:?subject={{post.title}}"
+        title="Email" class="email-share">
+
+        <i class="fa fa-envelope"></i>
+        <span>Email</span>
+
+      </a>
+    </li>
+  </ul>
+</div>

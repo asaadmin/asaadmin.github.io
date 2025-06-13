@@ -1,0 +1,121 @@
+.simple-banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: #2E5EA0;
+  text-align: center;
+  display: block;
+  padding: 16px 20px;
+}
+
+.simple-banner .simple-banner-text {
+  width: fit-content;
+  padding: 0 20px;
+  margin: 0 auto;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.8;
+  position: relative;
+  border: 1px solid #f2f1db;
+
+  a {
+    color: #f2f1db;
+    letter-spacing: 2px;
+  }
+}
+
+@include mq(tabletl) {
+  .banner {
+    margin-top: 50px;
+  }
+}
+
+.slogan {
+  letter-spacing: 11px;
+  font-size: 13px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.hide_on_mobile {
+  display: none;
+}
+
+@include mq(tabletp) {
+  .hide_on_mobile {
+    display: block;
+  }
+}
+
+.blog-post__header {
+  border-bottom: solid 3px;
+  border-color: #9f3745;
+  display: block;
+  border: 1px solid;
+  border-width: 3px 0 3px;
+  padding: 12px 0;
+  text-align: center;
+}
+
+.post-share {
+  display: block;
+  position: relative;
+  font-family: Arial, sans-serif;
+  letter-spacing: 2px;
+  font-size: 9px;
+  margin: 20px auto;
+  max-width: 720px;
+}
+
+.post-share__grid {
+  display: grid;
+  list-style-type: none;
+
+  li {
+    list-style-type: none;
+    a {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 0;
+      text-align: center;
+      color: #fff;
+      background: #000;
+      cursor: pointer;
+      overflow: hidden;
+      -ms-transition: all .3s ease-out;
+      transition: all .3s ease-out;
+      text-decoration: none;
+      font-size: 9px;
+      text-transform: uppercase;
+      svg {
+        fill: white;
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+}
+
+@include mq(phonel) {
+  .post-share__grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.post-share ul li.li-facebook a {
+  background: #3b5998;
+}
+
+.post-share ul li.li-twitter a {
+  background: #55acee;
+}
+
+.post-share ul li.li-linkedin a {
+  background: #0077b5;
+}

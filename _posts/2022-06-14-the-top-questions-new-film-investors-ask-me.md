@@ -36,7 +36,7 @@ Here I'm going to go over the top questions new film investors tend to ask me. B
 
 ## What’s it going to cost me?
 
- ![](\images\post\AdobeStock_194850718-SM-1536x866.jpg) 
+ ![](\images\post\AdobeStock_194850718-SM.jpg) 
  
 One of the first things investors want to know is how much the project will cost. Specifically, they want to know if it will *really* cost what the filmmakers say it will. 
 
@@ -50,7 +50,7 @@ If the filmmakers are accurate in their assessment, it could be a good investmen
  
 ## What’s my upside/downside?
 
- ![](\images\post\AdobeStock_334134212-SM-1536x864.jpg) 
+ ![](\images\post\AdobeStock_334134212-SM.jpg) 
  
  Once an investor understands how much an investment will cost, the next thing they want to know is how much they can expect to profit or lose. Sadly, there is no objective answer to this question. 
  
@@ -72,7 +72,7 @@ If the filmmakers are accurate in their assessment, it could be a good investmen
  
 ## What’s the chance this will be seen in a real movie theater?
 
- ![](\images\post\AdobeStock_225395390-SM-1536x864.jpg) 
+ ![](\images\post\AdobeStock_225395390-SM.jpg) 
  
  In a post COVID-19 world, I don’t think there’s much chance of as many movies being seen in a theater as we have seen for the past half-century. In the next 5-10 years, I predict there will be 75% *fewer* theaters (not screens - entire theaters) than we have now. Movie exhibition is about to head down the path of the dodo bird. Almost everything will come via streaming services or direct-to-consumer. 
  
