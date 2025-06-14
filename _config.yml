@@ -3,8 +3,8 @@ description: The Business of Entertainment
 author:
   name: Tim Tortora
 
-#url: "https://asaadmin.github.io"
-#baseurl: "/asaadmin"  # Leave blank unless you're publishing to a subpath
+url: "https://asaadmin.github.io"
+baseurl: ""  # Leave blank unless you're publishing to a subpath
 
 collections:
   pages:
